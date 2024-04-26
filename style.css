@@ -5,11 +5,11 @@ body{
     margin: auto;
 }
 
-.photo{
+/* .photo{
     border: 1px solid #505050;
     border-radius: 50px;
     width: 100px;
-}
+} */
 
 #title, .subtitle, .post_title{
     color: #505050;
